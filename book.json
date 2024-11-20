@@ -1,0 +1,56 @@
+[
+    {
+      "id":1, 
+      "judul":"Bulan",
+      "image":"src/assets/bulan.jpeg",
+      "pengarang":"Tere Liye",
+      "penerbit":"PT Gramedia Pustaka Utama",
+      "Tahun_terbit":2015,
+      "Halaman":396
+    },
+    {
+      "id":2,
+      "judul":"Ayah",
+      "image":"src/assets/ayah.jpeg",
+      "pengarang":"Andrea Hirata",
+      "penerbit":"PT Bentang Pustaka",
+      "Tahun_terbit":2015,
+      "Halaman":412
+    },
+    {
+      "id":3,
+      "judul":"Hujan",
+      "image":"src/assets/hujan.jpeg",
+      "pengarang":"Tere Liye",
+      "penerbit":"PT Gramedia Pustaka Umum",
+"Tahun_terbit":2016,
+"Halaman":320
+    },
+    {
+      "id":4,
+      "judul":"Saat-saat Jauh",
+      "image":"src/assets/saat.jpeg",
+      "pengarang":"Lia Seplia",
+      "penerbit":"PT Gramedia Pustaka Umum",
+      "Tahun_terbit":2021,
+      "Halaman":280
+    },
+    {
+      "id":5,
+      "judul":"Pulang - Pergi",
+      "image":"src/assets/pp.jpeg",
+      "pengarang":"Tere Liye",
+      "penerbit":"Sabak Grip Nusantara",
+      "Tahun_terbit":2021,
+      "Halaman":417
+    },
+    {
+      "id":6,
+      "judul":"Serangkai",
+      "image":"src/assets/sera.jpeg",
+      "pengarang":"Valerie Patkar",
+      "penerbit":"Bhuana Ilmu Populer",
+      "Tahun_terbit":2021,
+      "Halaman":400
+    }
+  ]
